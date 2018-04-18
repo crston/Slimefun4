@@ -127,7 +127,7 @@ public class ResearchSetup {
 	    Slimefun.registerResearch(new Research(125, "Soulbound Weapons", 29), SlimefunItems.SOULBOUND_SWORD, SlimefunItems.SOULBOUND_BOW);
 	    Slimefun.registerResearch(new Research(126, "Soulbound Tools", 29), SlimefunItems.SOULBOUND_PICKAXE, SlimefunItems.SOULBOUND_AXE, SlimefunItems.SOULBOUND_SHOVEL, SlimefunItems.SOULBOUND_HOE);
 	    Slimefun.registerResearch(new Research(127, "Soulbound Armor", 29), SlimefunItems.SOULBOUND_HELMET, SlimefunItems.SOULBOUND_CHESTPLATE, SlimefunItems.SOULBOUND_LEGGINGS, SlimefunItems.SOULBOUND_BOOTS);
-	    Slimefun.registerResearch(new Research(129, "Delicious Drinks", 29), SlimefunItems.JUICER, SlimefunItems.APPLE_JUICE, SlimefunItems.MELON_JUICE, SlimefunItems.CARROT_JUICE, SlimefunItems.PUMPKIN_JUICE);
+	    Slimefun.registerResearch(new Research(129, "Delicious Drinks", 29), SlimefunItems.JUICER, SlimefunItems.APPLE_JUICE, SlimefunItems.MELON_JUICE, SlimefunItems.EASTER_CARROT_JUICE, SlimefunItems.PUMPKIN_JUICE);
 	    Slimefun.registerResearch(new Research(130, "Repairing Spawners", 15), SlimefunItems.REPAIRED_SPAWNER);
 	    Slimefun.registerResearch(new Research(131, "HO HO HO", 1));
 	    Slimefun.registerResearch(new Research(132, "Enhanced Furnace", 7), SlimefunItems.ENHANCED_FURNACE, SlimefunItems.ENHANCED_FURNACE_2);
